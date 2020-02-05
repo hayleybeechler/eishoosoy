@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jeikaiquah.methodup.com/sitemap.xml
